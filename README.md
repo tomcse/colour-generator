@@ -6,5 +6,5 @@
 - Used react-toastify to display success and error messages
 
 #### URLs
-[values.js](https://github.com/noeldelgado/values.js/blob/master/README.md)
-[react-toastify](https://fkhadra.github.io/react-toastify/introduction)
+- [values.js](https://github.com/noeldelgado/values.js/blob/master/README.md)
+- [react-toastify](https://fkhadra.github.io/react-toastify/introduction)
